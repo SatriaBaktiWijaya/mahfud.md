@@ -8,6 +8,9 @@ Thumbs.db
 *.swp
 *.swo
 
+# Dependencies
+node_modules/
+
 # Temporary & Log files
 *.log
 npm-debug.log*
