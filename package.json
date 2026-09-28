@@ -1,0 +1,44 @@
+{
+  "name": "mahfud-code-auditor",
+  "version": "1.0.0",
+  "description": "Pakar hukum ketatanegaraan software engineering & auditor kode birokratik senior (mahfud.md) untuk AI Coding Agents.",
+  "main": "bin/cli.js",
+  "bin": {
+    "mahfud-code-auditor": "./bin/cli.js",
+    "mahfud-md": "./bin/cli.js"
+  },
+  "files": [
+    "skills",
+    "bin",
+    "README.md",
+    "LICENSE"
+  ],
+  "scripts": {
+    "start": "node ./bin/cli.js",
+    "test": "node ./bin/cli.js --help"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SatriaBaktiWijaya/mahfud.md.git"
+  },
+  "keywords": [
+    "ai",
+    "agent-skills",
+    "skills",
+    "antigravity",
+    "claude-code",
+    "cursor",
+    "windsurf",
+    "code-auditor",
+    "mahfud-md",
+    "laravel",
+    "react",
+    "java"
+  ],
+  "author": "Satria Bakti Wijaya",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SatriaBaktiWijaya/mahfud.md/issues"
+  },
+  "homepage": "https://github.com/SatriaBaktiWijaya/mahfud.md#readme"
+}

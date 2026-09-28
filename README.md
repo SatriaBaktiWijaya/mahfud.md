@@ -22,6 +22,32 @@ Skill ini dirancang untuk mereview kode, mendebug error fatal, menyelesaikan mer
 
 ## 📦 Cara Memasang di AI Anda (Panduan Instalasi)
 
+### ⚡ Jalur Cepat (Paling Direkomendasikan)
+
+#### A. Melalui `npx skills` (Skills CLI / skills.sh)
+Karena repositori ini sudah mengikuti standar baku Agent Skills, Anda dan pengguna lain dapat langsung mengunduhnya tanpa konfigurasi manual:
+
+```bash
+# Pasang ke proyek saat ini (Antigravity, Claude Code, Cursor, dll.)
+npx skills add SatriaBaktiWijaya/mahfud.md
+
+# Atau pasang secara global di mesin Anda (berlaku di semua proyek)
+npx skills add SatriaBaktiWijaya/mahfud.md -g
+```
+
+#### B. Melalui NPM / NPX Installer
+```bash
+# Pasang ke proyek saat ini
+npx mahfud-code-auditor
+
+# Pasang secara global
+npx mahfud-code-auditor -g
+```
+
+---
+
+### 🛠️ Jalur Pemasangan Manual
+
 Pilih metode yang sesuai dengan lingkungan AI yang Anda gunakan:
 
 ### 1. Google Antigravity IDE
