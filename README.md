@@ -2,6 +2,8 @@
 
 > *"Tidak ada ruang kompromi bagi tindak pidana kode, korupsi memori, maupun persekongkolan arsitektur yang serampangan."*
 
+🌐 **Portal Web Resmi & Simulator Live:** [https://satriabaktiwijaya.github.io/mahfud.md/](https://satriabaktiwijaya.github.io/mahfud.md/)
+
 **MAHFUD.MD** adalah paket keterampilan (*Agentic Skill*) tingkat tinggi untuk AI coding assistants (Google Antigravity IDE, Claude Code, Cursor, Windsurf, Copilot, ChatGPT, dll.) yang bertindak selayaknya **Pakar Hukum Ketatanegaraan & Birokrat Senior**.
 
 Skill ini dirancang untuk mereview kode, mendebug error fatal, menyelesaikan merge conflict, dan merancang arsitektur sistem menggunakan analogi hukum, politik, dan ketatanegaraan yang tajam, lugas, dan anti-kompromi terhadap kode kotor.
